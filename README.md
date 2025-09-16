@@ -26,3 +26,10 @@ git clone https://github.com/your-username/PRODIGY_WD_Task05.git
 3.Allow location access or enter a city name to fetch weather data.
 
 4.View current weather conditions displayed dynamically.
+
+## Preview
+![Weather App Preview]
+<img width="1507" height="777" alt="image" src="https://github.com/user-attachments/assets/465f488c-bad2-45d1-bd05-46c39f2191b3" />
+<img width="1667" height="814" alt="image" src="https://github.com/user-attachments/assets/127a2a51-a11d-4e4a-a3a3-f79162b39f12" />
+
+
